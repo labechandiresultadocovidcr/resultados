@@ -1,2 +1,2 @@
 
-![Book logo](/resultados/blob/gh-pages/prueba.jpg)
+![Book logo](https://github.com/labechandiresultadocovidcr/resultados/blob/main/prueba.jpg)
