@@ -1,2 +1,2 @@
 
-![Book logo](/resultados/prueba.jpg)
+![Book logo](/resultados/blob/gh-pages/prueba.jpg)
