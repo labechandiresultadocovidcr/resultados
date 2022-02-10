@@ -1,1 +1,2 @@
-![](https://github.com/labechandiresultadocovidcr/resultados/blob/main/prueba.jpg)
+
+![Book logo](/resultados/prueba.jpg)
